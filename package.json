@@ -1,9 +1,9 @@
 {
-  "name": "solarized-light-syntax",
+  "name": "solarized-light-dark-syntax",
   "theme": "syntax",
-  "version": "0.23.0",
-  "description": "A light syntax theme using the solarized colors",
-  "repository": "https://github.com/atom/solarized-light-syntax",
+  "version": "0.0.0",
+  "description": "A light syntax theme using the solarized colors but dark background",
+  "repository": "https://github.com/AJIh/solarized-light-dark-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
